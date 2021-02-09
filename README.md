@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏽, I'm Ruky, My Other name starts with a K</h1>
+<h1 align="center">Hello 👋🏽, I'm Ruky, My other name starts with a K</h1>
 <h3 align="center"> Actively Seeking Employment as a Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukywe&label=Profile%20views&color=0e75b6&style=flat" alt="rukywe" /> </p>
