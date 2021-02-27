@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently actively seeking employment **as a Software Developer**
 
-- 👨‍💻 my personal portfolio site [https://akelvin.dev/](https://akelvin.dev/)
-
 - 📝 I aim to write articles on [https://ruky.hashnode.dev/](https://ruky.hashnode.dev/)
 
 - 📫 How to reach me **rukywe@me.com**
