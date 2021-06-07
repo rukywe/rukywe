@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/rukydev" target="blank"><img src="https://img.shields.io/twitter/follow/rukydev?logo=twitter&style=for-the-badge" alt="rukydev" /></a> </p>
 
-- 🌱 I’m currently actively seeking employment **as a Software Developer**
-
 - 📝 I aim to write articles on [https://ruky.hashnode.dev/](https://ruky.hashnode.dev/)
 
 - 📫 How to reach me **rukywe@me.com**
