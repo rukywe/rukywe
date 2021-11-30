@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukywe&label=Profile%20views&color=0e75b6&style=flat" alt="rukywe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rukydev" target="blank"><img src="https://img.shields.io/twitter/follow/rukydev?logo=twitter&style=for-the-badge" alt="rukydev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rucod3" target="blank"><img src="https://img.shields.io/twitter/follow/rucod3?logo=twitter&style=for-the-badge" alt="rucod3" /></a> </p>
 
 - 📝 I aim to write articles on [https://ruky.hashnode.dev/](https://ruky.hashnode.dev/)
 
