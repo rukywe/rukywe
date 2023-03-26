@@ -10,7 +10,7 @@
 
 - 🙌🏽 I’m looking to collaborate on **open source projects that have a positive impact on society and improve people's lives.**
 
-- 📝 I regularly write articles on [https://medium.com/@arrayoftech](https://medium.com/@arrayoftech)
+- 📝 I aim to write articles on [https://medium.com/@arrayoftech](https://medium.com/@arrayoftech)
 
 - 📫 How to reach me **rukywe@me.com**
 
